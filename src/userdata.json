@@ -1,0 +1,7 @@
+{
+    "files": [{
+        "path": "test.txt",
+        "content": "SGVsbG8gV29ybGQ=",
+        "permission": 222
+    }]
+}
